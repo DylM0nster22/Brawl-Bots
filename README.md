@@ -1,1 +1,2 @@
 These are 2-wheeled, 2-armed boxing robots that will compete against each other in a boxing ring. Each bot can punch and block as well as drive around the ring. Points are meant to be scored by punches hit to the face. The face consists of a button and a sliding plate, so when hit, should register a point. Due to tine restrictions we may not have a system to keep track of points.
+<img width="828" height="1013" alt="image" src="https://github.com/user-attachments/assets/57a059e2-c631-4b54-93ea-26ef4a6456ea" />
